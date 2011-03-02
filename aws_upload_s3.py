@@ -1,9 +1,8 @@
 #!/usr/bin/env python
 """
 Amazon WS: Transfer files to an S3 bucket
-
 Dependencies 
-    S3 http://developer.amazonwebservices.com/connect/entry.jspa?externalID=134
+    S3 http://aws.amazon.com/code/134
 """
 import mimetypes
 import os.path
